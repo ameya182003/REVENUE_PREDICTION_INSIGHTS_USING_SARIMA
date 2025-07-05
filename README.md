@@ -31,7 +31,7 @@ This interface provides a holistic view of revenue performance, tailored predict
 
 To use the interface:
 
-1. Visit the [Live Preview](https://revenuepredictionhotel.streamlit.app/) link.
+1. Visit the [Live Preview](https://hotelrevenueinsights.streamlit.app/) link.
 2. Navigate through the Dashboard, Prediction, and Forecast Prediction sections using the provided tabs.
 3. Customize data display using the available filters and input parameters.
 4. Download forecasted datasets for further analysis or integration into planning processes.
